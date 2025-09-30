@@ -45,3 +45,10 @@
 }
 
 /* Add your custom styles below */
+.cards-container {
+  color: rgb(91, 91, 149);
+  background: #ffffff;
+  border: 1px solid #d6dbe7;
+
+}
+
